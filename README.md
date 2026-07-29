@@ -1,4 +1,3 @@
-
 # Data Science Case Study
 
 This repository documents my hands-on learning journey in **Data Science** through practical case studies and Jupyter notebooks. The focus is on mastering data preprocessing, exploratory data analysis (EDA), feature engineering, and preparing data for machine learning.
